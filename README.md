@@ -16,3 +16,13 @@ in the city and become aware of safer paths
 
 How to Run:
 
+- Install node-modules using npm install
+
+- Open the index.html page to see the OpenLayers API
+
+- Check out places to avoid and crime hotspots in the last 3 months
+
+Demo of how the API functions:
+
+
+

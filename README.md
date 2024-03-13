@@ -24,5 +24,6 @@ How to Run:
 
 Demo of how the API functions:
 
+![video1272676159-ezgif com-video-to-gif-converter](https://github.com/Krushankb/UIUC-Crime-Mapping-API/assets/71993168/032696d3-8739-496c-a4a8-0f8b724e5720)
 
 
